@@ -9,7 +9,7 @@ I'm **Do Duc Nghia**, an Electronics Engineering student at **HCMUT** (Ho Chi Mi
 
 ### 🎯 My goals
 
-- 🚀 Become a strong embedded developer ready for real-world challenges  
+- 🚀 Become a strong embedded and robotics developer ready for real-world challenges
 - 💼 Land internships at top-tier companies like **Bosch**, **ABB Robotics**,...  
 - 🌍 Improve communication skills for international work environments  
 

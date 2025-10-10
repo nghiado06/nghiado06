@@ -2,7 +2,7 @@
 
 I'm **Do Duc Nghia**, an Electronics Engineering student at **HCMUT** (Ho Chi Minh City University of Technology).
 
-🔧 I’m passionate about **Embedded Systems**, **Robotics**, **Automotive**, and **AI on Edge Devices**.  
+🔧 I’m passionate about **Embedded Systems**, **Robotics**, **Automotive**, and **AI Application**.  
 📚 I’m currently sharpening my skills in **firmware development**, **AUTOSAR**, and aiming to reach **IELTS 8.0**.
 
 ---

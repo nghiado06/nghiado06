@@ -18,8 +18,11 @@ I'm **Do Duc Nghia**, an Electronics Engineering student at **HCMUT** (Ho Chi Mi
 ### 📫 How to reach me
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ducnghiadoo)](https://www.facebook.com/ducnghiadoo)
+
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@ducnghiado2605)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nghiado265/)
+
 📧 Email: [dungnhannghia2605@gmail.com](mailto:dungnhannghia2605@gmail.com)
 
 
